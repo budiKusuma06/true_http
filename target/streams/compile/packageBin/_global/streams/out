@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/noisy/Works/Scala/true_http/target/scala-3.4.2/true_http_3-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/id[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id/true_http[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/id/true_http[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id/true_http/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/id/true_http/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id/true_http/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/id/true_http/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id/true_http/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/id/true_http/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id/true_http/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/id/true_http/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id/true_http/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/id/true_http/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	id/true_http/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/id/true_http/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	css/light.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/css/light.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	js/shoelace.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/noisy/Works/Scala/true_http/target/scala-3.4.2/classes/js/shoelace.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

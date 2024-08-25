@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/noisy/Works/Scala/true_http/src/main/scala/id/true_http/Main.scala:17:6 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m17 |[0m      sl-button([31m"test"[0m),[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m      ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m      Not found: sl - did you mean dl? or perhaps ol or ul?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
